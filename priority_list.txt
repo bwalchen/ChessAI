@@ -1,0 +1,19 @@
+----------------
+-Priority List -
+----------------
+
+EARLY
+    - Chess State (Ben), done
+    - GameMaster (Kostya), done
+
+    - Heuristic (Kostya)
+        * have code be within Player 1
+    - Test and make sure game works even if it's dumb
+
+MID
+    - Zobrist Hashing (Ben)
+        * add to GameMaster
+    - Move decision making
+
+LATE
+    - Multithreading
