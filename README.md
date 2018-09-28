@@ -4,7 +4,7 @@
 ` python3 GameMaster.py Player01 Player01` 
 
 ### Summary
-Welcome to _Chess AI_, this project was created by myself and Kostya. We took an introductory artificial intelligence class and decided it would be fun to use some of the new skills we had learned and apply them to a personal project.  The repo we worked on can be found at [this link](https://github.com/MustachedNinja/Chess_AI).
+Welcome to _Chess AI_, this project was created by myself and Kostya. We took an introductory artificial intelligence class and decided it would be fun to use some of the new skills we had learned and apply them to a personal project.  The original repo we worked on can be found at [this link](https://github.com/MustachedNinja/Chess_AI).
 
 ### Skills learned
 * Alpha Beta Pruning
